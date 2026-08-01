@@ -163,9 +163,12 @@ The dashboard presents this category transparently so that users can interpret t
 # 📸 Dashboard Preview
 
 ## Dashboard 1
+![Dashboard 1](dashboard%201.png)
+
 
 
 ## Dashboard 2
+![Dashboard 2](dashboard%202.png)
 
 
 
