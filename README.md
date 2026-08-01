@@ -188,5 +188,11 @@ Bank-Marketing-Campaign-Analysis
 └── Tableau_Dashboard.twbx
 ```
 
+## 👤 Author
+
+**Kritika Singh**
+
+GitHub: https://github.com/KritikaSingh-01
+
 ---
 
