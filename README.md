@@ -188,6 +188,15 @@ Bank-Marketing-Campaign-Analysis
 └── Tableau_Dashboard.twbx
 ```
 
+
+## 🎓 Internship Project
+
+This project was developed as part of the **IBM SkillsBuild Academic Internship 2026 – Big Data & Business Management**, offered in collaboration with **AICTE** under the **BharatCares Initiative by SMEC Trust**.
+
+During the internship, I designed and developed an interactive Tableau dashboard to analyze the UCI Bank Marketing dataset, transforming raw campaign data into actionable business insights through interactive visualizations and performance analysis.
+
+
+
 ## 👤 Author
 
 **Kritika Singh**
